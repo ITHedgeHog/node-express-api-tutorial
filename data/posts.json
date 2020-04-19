@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Post 1",
+    "content": "This is Post 1",
+    "authors": "Dan Taylor",
+    "published": true
+  },
+  {
+    "title": "Post 2",
+    "content": "This is Post 2",
+    "authors": "Dan Taylor",
+    "published": true
+  },
+  {
+    "title": "Post 3",
+    "content": "This is Post 3",
+    "authors": "Dan Taylor",
+    "published": true
+  },
+  {
+    "title": "Post 4",
+    "content": "This is Post 4",
+    "authors": "Evan Scown",
+    "published": false
+  }
+]
